@@ -1,6 +1,8 @@
 # Sporthub - Streamline Sports Education and Grading
 
-![Sporthub Logo](image.png)
+<div>
+<img src="https://github.com/mahmutovichana/SportHub/assets/113919501/c5f681b7-ba3d-4b80-93f3-06ac6bdd72cf" alt="SportHubLogo" align="right" width="500">
+</div>
 
 ## Overview
 
